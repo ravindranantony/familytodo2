@@ -36,7 +36,7 @@ export const Footer: React.FC = () => {
           <span className="text-gray-300">|</span>
 
           <a
-            href="https://familytodo.vercel.app/"
+            href="https://familytodo4u.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center space-x-2 text-gray-600 hover:text-violet-600 transition-colors"
